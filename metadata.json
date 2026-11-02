@@ -1,0 +1,6 @@
+{
+  "name": "WeatherGPT",
+  "description": "Conversational AI for Weather Forecasting, Alerts, and Climate Information",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
